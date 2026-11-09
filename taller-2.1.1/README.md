@@ -1,10 +1,10 @@
-# UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE  
-# **CARRERA DE SOFTWARE**    
-# **Desarrollo de Videojuegos**  
+**UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE**   
+**CARRERA DE SOFTWARE**    
+**Desarrollo de Videojuegos**  
 
-## Taller No. 1 - Parcial II  
+**Taller No. 1 - Parcial II**    
 
-### **Taller PRACT-EXP: Investigación de un dispositivo de entrada**  
+**Taller PRACT-EXP: Investigación de un dispositivo de entrada**  
 
 **Integrantes:**
 - Lainez Ricardo
