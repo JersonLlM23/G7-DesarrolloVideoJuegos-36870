@@ -1,0 +1,9 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1795453098
+GUIA_DEL_DOCENTE.txt::TextFile::-1::1795471010::0::1::::<><><>0<>0<><>::
+LEEME_PRIMERO.txt::TextFile::-1::1795471010::0::1::::<><><>0<>0<><>::
+::res://scenes/::1795453070
+Main.tscn::PackedScene::-1::1795471010::0::1::::<><><>0<>0<><>::res://scripts/Main.gd
+::res://scripts/::1795453070
+Main.gd::GDScript::3913854114349076769::1795471010::0::1::::<>Node2D<><>0<>0<><>::
+Player.gd::GDScript::8121203443239166666::1795471010::0::1::::<>CharacterBody2D<><>0<>0<><>::
